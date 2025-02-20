@@ -1,7 +1,7 @@
-# <Hello>你好👋, &nbsp;I'm ZHANGYU</Hello>
+# <Hello>你好👋, &nbsp;I'm MUYU</Hello>
 
-I'm a frontend developer from Chengdu, with a love for writing `code`. I post blogs on [zhangyu.dev](https://www.zhangyu.dev/).
+I'm a frontend developer from Chongqing, a lawyer. I post blogs on [muyu.dev](https://www.muyu.dev/).
 
-In my spare time, I learn `Three.js`. I try to write some English posts to level up my English, with the aim to work remotely in the future. 
+In my spare time, I learn `comfyui`. In my spare time, I try to use AI to draw pictures in various styles, with the aim that I can learn to use AI to create pictures and videos by myself in the future.
 
-I also like skateboarding and skiing 🏂, but I don't do risky tricks.
+I also like to watch movies and listen to music . 
